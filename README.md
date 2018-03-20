@@ -8,5 +8,5 @@ pip install --editable .
 
 ## Usage
 ```
-tcsubmit [recipient] [amount]
+tcwallet --recipient [recipient] --amount [amount]
 ```
